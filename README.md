@@ -1,4 +1,4 @@
-matlab
-======
+R repositorio
 
-home
+Algunos códigos para cietas rutinas...  
+
